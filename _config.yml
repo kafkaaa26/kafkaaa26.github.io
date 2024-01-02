@@ -1,0 +1,21 @@
+# Dependencies
+markdown:         kramdown
+highlighter:         rouge
+
+# Permalinks
+permalink:        /post/:title
+
+# Setup
+title:            "Dan Nguyen"
+description:      "This is my personal notes about film, life and everything I find interest in my life."
+url:              "danxii26.github.io"
+baseurl:          "/"
+
+author:
+  name:           "Dan Nguyen"
+
+# Custom vars
+twitter:        https://twitter.com/danxii26
+github:         https://github.com/danxii26
+plugins:
+  - jekyll-feed
