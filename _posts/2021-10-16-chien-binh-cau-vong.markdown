@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chiến binh cầu vồng"
+title: "chiến binh cầu vồng"
 date: 2021-10-16
 ---
 

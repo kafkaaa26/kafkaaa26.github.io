@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Half frame, gà mờ"
+title: "half frame, gà mờ"
 date: 2020-09-10
 ---
 
